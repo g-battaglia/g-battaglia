@@ -8,7 +8,7 @@ I'm a full stack developer from Italy
 
 <br>
 
-## <p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=g-battaglia&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="g-battaglia" /></p>
+<p align="left" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=g-battaglia&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="g-battaglia" /></p>
 <br>
 <p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=g-battaglia&show_icons=true&locale=en&theme=tokyonight" alt="g-battaglia" /></p>
 
