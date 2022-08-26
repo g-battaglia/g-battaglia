@@ -4,7 +4,7 @@
 
 <br>
 
-## Full stack developer from Italy
+I'm a full stack developer from Italy
 
 <br>
 
